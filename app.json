@@ -1,5 +1,5 @@
 {
-  "name": "Superiour-Tagger-Bot",
+  "name": "Murti Tagger-Bot",
   "description": "A Simple Mention All Bot For Telegram.",
   "env": {
     "API_ID": {
